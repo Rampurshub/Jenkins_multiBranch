@@ -2,6 +2,4 @@ New changes done by developer
 
 some more changes dondddddddeddd
 
-
-cccccc
-
+lines added in the loans branch
